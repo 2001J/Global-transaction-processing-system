@@ -1,0 +1,29 @@
+# SBT files
+target
+
+
+# IDE files
+.idea
+*.iws
+*.iml
+*.ipr
+.bsp
+
+# Dependency directories
+lib/                  # Library directory (if using unmanaged dependencies)
+
+# Operating system files
+.DS_Store             # macOS Finder metadata
+Thumbs.db            # Windows thumbnail cache
+
+# Logs
+*.log                 # Log files
+
+# Other
+*.class               # Compiled class files
+*.jar                 # Java archive files
+*.war                 # Web application archive files
+
+
+problem_desc.txt
+
